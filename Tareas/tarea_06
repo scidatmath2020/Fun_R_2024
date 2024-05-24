@@ -1,0 +1,5 @@
+Dada una frase y un símbolo, llenar una lista letra por letra de la frase hasta que se llegue al símbolo.
+Por ejemplo, si la frase es "Hola a todos. ¿Cómo están?" y el símbolo es ".", debe crearse una lista con los elementos
+"H", "o", "l", "a", " ", "a", " ", "t", "o", "d", "o", "s"
+
+Si el símbolo no está, debe imprimir "No se encontró el símbolo"
